@@ -12,7 +12,7 @@ lang: en-US
 title: "Seayoung's Space"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "This is my space, to keep track of my life, my thoughts, and my love story."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -31,9 +31,9 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about.html
+    url: /about
   - text: Tags
-    url: /tags.html
+    url: /tags
 
 # The shortname for your Disqus site to enable comments.
 # disqus: justgoodthemes
@@ -43,7 +43,7 @@ accent_color: '#33cccc'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; Seayoung all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
 # Plugins
